@@ -9,7 +9,7 @@
 const PRODUCTS = [
     {
         id: 1,
-        name: "Midnight Overfit Hoodie",
+        name: "Midnight",
         category: "hoodie",
         price: 3200,
         image: "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800&q=80",
