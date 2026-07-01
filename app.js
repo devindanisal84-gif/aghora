@@ -11,7 +11,7 @@ const PRODUCTS = [
         id: 1,
         name: "Midnight Overfit Hoodie",
         category: "hoodie",
-        price: 3200lkr,
+        price: 3200,
         image: "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800&q=80",
         description: "Heavyweight 450gsm organic French Terry cotton, drop shoulder silhouette, double-lined structural hood, ribbed cuffs, and minimal industrial embroidery detail at the chest.",
         badge: "NEW DROP",
